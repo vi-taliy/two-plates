@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/two-plates/static/css/main.c3a100c1.css",
-    "main.js": "/two-plates/static/js/main.6b2d597f.js",
+    "main.js": "/two-plates/static/js/main.33c1ecde.js",
     "static/js/453.e22f6bcd.chunk.js": "/two-plates/static/js/453.e22f6bcd.chunk.js",
     "index.html": "/two-plates/index.html",
     "main.c3a100c1.css.map": "/two-plates/static/css/main.c3a100c1.css.map",
-    "main.6b2d597f.js.map": "/two-plates/static/js/main.6b2d597f.js.map",
+    "main.33c1ecde.js.map": "/two-plates/static/js/main.33c1ecde.js.map",
     "453.e22f6bcd.chunk.js.map": "/two-plates/static/js/453.e22f6bcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3a100c1.css",
-    "static/js/main.6b2d597f.js"
+    "static/js/main.33c1ecde.js"
   ]
 }
