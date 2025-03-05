@@ -13,6 +13,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/matchmaking" element={<MatchmakingPage />} />
           <Route path="/results" element={<ResultsPage />} />
+          <Route path="*" element={<Navigate to="/" />} /> 
         </Routes>
       </div>
     </BrowserRouter>
