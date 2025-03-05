@@ -7,7 +7,7 @@ import ResultsPage from './Results/ResultsPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/vi-taliy.github.io/two-plates">
       <div className="App">
         <Routes>
           <Route path="/" element={<HomePage />} />
