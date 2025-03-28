@@ -4,7 +4,7 @@ export const restaurantData = [
       name: "The Cellar",
       rating: 3.8,
       price: "$$",
-      image_path: "/restaurant_images/cellar.png",
+      image_path: "restaurant_images/cellar.png",
       yelp: "https://www.yelp.com/biz/the-cellar-restaurant-blacksburg-2?osq=The+cellar",
       website: "https://the-cellar.com/"
     },
@@ -13,7 +13,7 @@ export const restaurantData = [
       name: "Mezah",
       rating: 3.8,
       price: "$$",
-      image_path: "/restaurant_images/mezah.png",
+      image_path: "restaurant_images/mezah.png",
       yelp: "https://www.yelp.com/biz/mezeh-blacksburg-5?osq=Mezah",
       website: "https://mezeh.com/"
     },
@@ -22,7 +22,7 @@ export const restaurantData = [
       name: "Roots",
       rating: 4.3,
       price: "$$",
-      image_path: "/restaurant_images/roots.png",
+      image_path: "restaurant_images/roots.png",
       yelp: "https://www.yelp.com/biz/roots-natural-kitchen-blacksburg?osq=roots",
       website: "https://www.rootsnaturalkitchen.com/"
     },
@@ -31,7 +31,7 @@ export const restaurantData = [
       name: "Black Hen Restaurant and Bar Blue",
       rating: 4.4,
       price: "$$$",
-      image_path: "/restaurant_images/black_hen.png",
+      image_path: "restaurant_images/black_hen.png",
       yelp: "https://www.yelp.com/biz/the-black-hen-and-bar-blue-blacksburg",
       website: "https://www.theblackhenrestaurant.com/"
     },
@@ -40,7 +40,7 @@ export const restaurantData = [
       name: "The Blacksburg Tavern",
       rating: 4.5,
       price: "$$",
-      image_path: "/restaurant_images/blacksburg_tavern.png",
+      image_path: "restaurant_images/blacksburg_tavern.png",
       yelp: "https://www.yelp.com/biz/the-blacksburg-tavern-blacksburg",
       website: "https://theblacksburgtavern.com/"
     },
@@ -49,7 +49,7 @@ export const restaurantData = [
       name: "Cabo Fish Taco",
       rating: 4.4,
       price: "$$",
-      image_path: "/restaurant_images/cabo.png",
+      image_path: "restaurant_images/cabo.png",
       yelp: "https://www.yelp.com/biz/cabo-fish-taco-blacksburg",
       website: "https://www.cabofishtaco.com/blacksburg/"
     },
@@ -58,7 +58,7 @@ export const restaurantData = [
       name: "Gaucho Brazilian Grill",
       rating: 4.5,
       price: "$$",
-      image_path: "/restaurant_images/gaucho.png",
+      image_path: "restaurant_images/gaucho.png",
       yelp: "https://www.yelp.com/biz/gaucho-brazilian-grille-blacksburg-2",
       website: "https://www.gauchogrille.com/"
     },
@@ -67,7 +67,7 @@ export const restaurantData = [
       name: "Avellinos Italian Restaurant and Pizzeria",
       rating: 4.3,
       price: "$$",
-      image_path: "/restaurant_images/avellinos.png",
+      image_path: "restaurant_images/avellinos.png",
       yelp: "https://www.yelp.com/biz/avellinos-blacksburg",
       website: "https://avellinosrestaurant.com/"
     }, 
@@ -76,7 +76,7 @@ export const restaurantData = [
       name: "Lefty's Main Street Grille",
       rating: 4.0,
       price: "$$",
-      image_path: "/restaurant_images/lefty.png",
+      image_path: "restaurant_images/lefty.png",
       yelp: "https://www.yelp.com/biz/leftys-main-street-grille-blacksburg-5",
       website: "https://leftysgrille.com/"
     },
@@ -85,7 +85,7 @@ export const restaurantData = [
       name: "Zeppoli's Italian Restaurant & Wine Shop",
       rating: 4.1,
       price: "$$",
-      image_path: "/restaurant_images/zeppoli.png",
+      image_path: "restaurant_images/zeppoli.png",
       yelp: "https://www.yelp.com/biz/zeppollis-blacksburg",
       website: "https://www.zeppolis.com/"
     },
@@ -94,7 +94,7 @@ export const restaurantData = [
       name: "El Rodeo",
       rating: 4.5,
       price: "$$",
-      image_path: "/restaurant_images/rodeo.png",
+      image_path: "restaurant_images/rodeo.png",
       yelp: "https://www.yelp.com/biz/el-rodeo-blacksburg?osq=El+Rodeo",
       website: "https://www.elrodeoblacksburgva.com/"
     },
@@ -103,7 +103,7 @@ export const restaurantData = [
       name: "Chipotle",
       rating: 4.6,
       price: "$$",
-      image_path: "/restaurant_images/chipotle.png",
+      image_path: "restaurant_images/chipotle.png",
       yelp: "https://www.yelp.com/biz/chipotle-mexican-grill-blacksburg?osq=Chipotle+Mexican+Grill",
       website: "https://www.chipotle.com/?utm_source=admedia&utm_medium=search&utm_campaign=alwayson&utm_content=2025032736839589113&gclid=CI22gt-xq4wDFYrMcwQdxmEHzQ&gclsrc=ds"
     },
@@ -112,7 +112,7 @@ export const restaurantData = [
       name: "DP Dough",
       rating: 3.5,
       price: "$$",
-      image_path: "/restaurant_images/dp_dough.png",
+      image_path: "restaurant_images/dp_dough.png",
       yelp: "https://www.yelp.com/biz/dp-dough-blacksburg?osq=Dp+Dough",
       website: "https://dpdough.com/"
     },
@@ -121,7 +121,7 @@ export const restaurantData = [
       name: "622 North",
       rating: 4.1,
       price: "$$",
-      image_path: "/restaurant_images/622_North.png",
+      image_path: "restaurant_images/622_north.png",
       yelp: "https://www.yelp.com/biz/622-north-blacksburg?osq=622+North",
       website: "https://www.622north.com/"
     },
@@ -130,7 +130,7 @@ export const restaurantData = [
       name: "The Coop",
       rating: 2.9,
       price: "$$",
-      image_path: "/restaurant_images/coop.png",
+      image_path: "restaurant_images/coop.png",
       yelp: "https://www.yelp.com/biz/the-coop-blacksburg?osq=The+coop",
       website: "https://www.thecoopblacksburg.com/"
     },
@@ -139,7 +139,7 @@ export const restaurantData = [
       name: "Benny Marzano's",
       rating: 3.1,
       price: "$$",
-      image_path: "/restaurant_images/benny.png",
+      image_path: "restaurant_images/benny.png",
       yelp: "https://www.yelp.com/biz/benny-marzanos-blacksburg?osq=Benny+Marzano%27s",
       website: "https://www.bennysva.com/locations/marzanos/"
     },
@@ -148,7 +148,7 @@ export const restaurantData = [
       name: "Mellow Mushroom",
       rating: 3.9,
       price: "$$",
-      image_path: "/restaurant_images/mellow.png",
+      image_path: "restaurant_images/mellow.png",
       yelp: "https://www.yelp.com/biz/mellow-mushroom-blacksburg-blacksburg?osq=Mellow+Mushroom",
       website: "https://www.mellowmushroom.com/"
     },
@@ -157,7 +157,7 @@ export const restaurantData = [
       name: "Hamro Kitchen",
       rating: 4.5,
       price: "$",
-      image_path: "/restaurant_images/hamro.png",
+      image_path: "restaurant_images/hamro.png",
       yelp: "https://www.yelp.com/biz/hamro-kitchen-blacksburg",
       website: "https://hamrokitchen.net/"
     },
@@ -166,7 +166,7 @@ export const restaurantData = [
       name: "Kuma Moon",
       rating: 4.4,
       price: "$",
-      image_path: "/restaurant_images/kuma.png",
+      image_path: "restaurant_images/kuma.png",
       yelp: "https://www.yelp.com/biz/kuma-moon-blacksburg",
       website: "https://www.kumamoon.us/"
     },
@@ -175,7 +175,7 @@ export const restaurantData = [
       name: "Himalayan Curry Cafe",
       rating: 4.5,
       price: "$$",
-      image_path: "/restaurant_images/himalayan.png",
+      image_path: "restaurant_images/himalayan.png",
       yelp: "https://www.yelp.com/biz/himalayan-curry-cafe-blacksburg-2",
       website: "https://www.himalayancurrycafe.com/"
     },

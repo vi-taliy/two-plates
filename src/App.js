@@ -25,7 +25,7 @@ function App() {
 
   return (
     <SettingsProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/two-plates">
         <div className="App">
           <Navbar />
           <div className="content">
@@ -51,4 +51,4 @@ function App() {
   );
 }
 
-export default App; 
+export default App;
