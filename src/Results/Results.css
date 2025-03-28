@@ -3,25 +3,68 @@
     justify-content: center;
     align-items: center;
     min-height: 80vh;
-  }
+}
+
+.results-container p {
+    margin-bottom: 0px;
+}
   
-  .results-profile {
+.results-profile {
+    margin-top: 1rem;
     border: 2px solid #e67e22;
     border-radius: 8px;
     padding: 20px;
-    width: 80%;
-    max-width: 400px;
+    width: 400px;
     box-shadow: 0 0 20px rgba(230, 126, 34, 0.5);
     text-align: center;
     background-color: white;
-  }
+}
   
-  .results-profile h2 {
+.results-profile h2 {
     color: #e67e22;
     margin-top: 0;
-  }
+}
   
-  .results-profile .restaurant-image {
+.results-profile .restaurant-image {
     height: 250px;
-  }
+}
   
+.visit-button {
+    width: 100%;
+    background-color: #5a4428;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+.reset-button {
+    width: 100%;
+    background-color: #5a4428;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+.visit-button:hover {
+    background-color: #7a5c36;
+}
+
+.reset-button:hover {
+    background-color: #7a5c36;
+}
+
+.button-container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}

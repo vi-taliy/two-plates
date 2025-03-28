@@ -1,19 +1,16 @@
-.home-container {
+.content {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  height: 100vh;
-  background-color: #f8e2c9;
-  text-align: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
-.home-container h1 {
+.content h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
 }
 
-.home-container p {
+.content p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
 }
