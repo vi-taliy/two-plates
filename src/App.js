@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import "./App.css";
 import HomePage from "./Home/HomePage";
 import MatchmakingPage from "./Matchmaking/MatchmakingPage";
@@ -25,7 +25,7 @@ function App() {
 
   return (
     <SettingsProvider>
-      <BrowserRouter basename="/two-plates">
+      <HashRouter>
         <div className="App">
           <Navbar />
           <div className="content">
@@ -46,7 +46,7 @@ function App() {
           </div>
           <FooterPage />
         </div>
-      </BrowserRouter>
+        </HashRouter>
     </SettingsProvider>
   );
 }
